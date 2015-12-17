@@ -1,4 +1,4 @@
-say -o lol.aiff "
+say -o momspaghetti.aiff "
 
 Look, if you had, one shot, or one opportunity
 To seize everything you ever wanted. In one moment
