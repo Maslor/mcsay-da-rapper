@@ -1,4 +1,4 @@
-say -o momspaghetti.aiff "
+say $1 $2 "
 
 Look, if you had, one shot, or one opportunity
 To seize everything you ever wanted. In one moment
